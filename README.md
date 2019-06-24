@@ -1,3 +1,9 @@
+https://grokonez.com/spring-framework/spring-security/spring-security-jwt-authentication-restapis-springboot-spring-mvc-spring-security-spring-jpa-mysql
+
+https://grokonez.com/java-integration/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack-part-3-build-frontend
+
+
+
 # Spring Boot JWT
 
 ![](https://img.shields.io/badge/build-success-brightgreen.svg)
